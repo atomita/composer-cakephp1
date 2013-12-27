@@ -1,7 +1,7 @@
 CakePHP1 in Composer
 =================
 
-Installation
+Usage
 --------------------
 
     ``` sh
